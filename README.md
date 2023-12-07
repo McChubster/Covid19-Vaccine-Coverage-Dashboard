@@ -1,1 +1,5 @@
-# Covid19-Vaccine-Coverage-Dashboard
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
